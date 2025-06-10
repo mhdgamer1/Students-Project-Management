@@ -1,2 +1,3 @@
 # Students-Project-Management
-create a new student project
+ Project data entry form
+ Save project data in the database
